@@ -1,6 +1,6 @@
 {
   "name": "rxjs-advance-to",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Implements advanceTo for RxJS 5 TestScheduler",
   "main": "dist.js",
   "scripts": {
@@ -15,13 +15,13 @@
   },
   "homepage": "https://github.com/argelius/rxjs-advance-to#readme",
   "dependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-2": "^6.24.1"
   },
   "devDependencies": {
     "ava": "^0.19.1",
     "rxjs": "^5.4.0",
-    "sinon": "^2.2.0"
+    "sinon": "^2.2.0",
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
   }
 }
