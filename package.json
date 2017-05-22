@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-advance-to",
+  "version": "1.0.0",
+  "description": "Implements advanceTo for RxJS 5 TestScheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(yarn bin)/ava"
+  },
+  "repository": "git+https://github.com/argelius/rxjs-advance-to.git",
+  "author": "Andreas Argelius <andreas@argeli.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/argelius/rxjs-advance-to/issues"
+  },
+  "homepage": "https://github.com/argelius/rxjs-advance-to#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "rxjs": "^5.4.0",
+    "sinon": "^2.2.0"
+  }
+}
