@@ -22,5 +22,5 @@ source.subscribe(
 
 advanceTo(scheduler, 10); // a
 advanceTo(scheduler, 20); // b
-advanceTo(scheduler, 30); // c
+advanceTo(scheduler, 30); // done!
 ```

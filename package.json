@@ -1,6 +1,6 @@
 {
   "name": "rxjs-advance-to",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Implements advanceTo for RxJS 5 TestScheduler",
   "main": "dist.js",
   "scripts": {
