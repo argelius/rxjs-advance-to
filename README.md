@@ -6,7 +6,7 @@ The test scheduler in RxJS 5 doesn't currently provide a function that allows yo
 
 ## Usage
 
-```
+```es6
 import { TestScheduler } from 'rxjs';
 import advanceTo from 'rxjs-advance-to';
 
